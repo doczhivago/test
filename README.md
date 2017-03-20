@@ -5,12 +5,10 @@ The NI Replication and Deployment (RAD) reference utility provides a turn-key so
 Replication and Deployment (RAD) Utility
 http://www.ni.com/example/30986/en/
 
-## Using GitHub Repo Template
+## Using Replication and Deployment Repository
 
 1. Clone or download this repository.
 2. Copy its contents into your project (including the hidden .github directory). 
-3. Customize each file to suit your project's needs (including the README). Look through the files for "TODO" and \<reponame\>, and replace with content appropriate to your project.
+3. Customize each file to suit your project's needs (including the README). 
 4. (Optional) Check out [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) for ideas about how to customize your project.
-
-
 
