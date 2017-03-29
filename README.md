@@ -1,9 +1,12 @@
 # NI Replication and Deployment Utility
 
-The NI Replication and Deployment (RAD) reference utility provides a turn-key solution for automated RT image deployment, replication, and management. It is built using functionality provided by the System Configuration VIs. This tool was previously known as the Real-Time Application Deployment (RTAD) utility, and archive versions can be found at Archive of the Real-Time Application Deployment (RTAD) Utility. The utility provides an easy-to-use interface for creating and deploying images from NI real-time targets. To learn more about configuration management with NI Real-Time devices, visit the Replication and Deployment (RAD) Utility White Paper.
+The NI Replication and Deployment (RAD) reference utility provides a turn-key solution for automated NI Real-Time device image deployment, replication, and management. It is built using functionality provided by the NI System Configuration API. The utility provides an easy-to-use interface for creating and deploying images from NI Real-Time targets. To learn more about configuration management with NI Real-Time devices, visit the RAD Utility White Paper. To discussion issues with RAD, visit the LabVIEW Real-Time Application Deployment Discussion Forum.
 
-Replication and Deployment (RAD) Utility
+Replication and Deployment (RAD) Utility White Paper
 http://www.ni.com/example/30986/en/
+
+LabVIEW Real-Time Application Deployment Discussion Forum
+https://forums.ni.com/t5/Real-Time-and-Control/LabVIEW-Real-Time-Application-Deployment/td-p/751032
 
 ## Using Replication and Deployment Repository
 
